@@ -2,8 +2,8 @@
   "name": "vue-errorhandler",
   "version": "1.0.2",
   "description": "A error handler for vue.",
-  "main": "./dist/vue-errorhandler.umd.min.js",
-  "jsnext:main": "./dist/vue-errorhandler.umd.min.js",
+  "main": "./dist/vue-errorhandler.common.js",
+  "jsnext:main": "./dist/vue-errorhandler.common.js",
   "scripts": {
     "dev": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
